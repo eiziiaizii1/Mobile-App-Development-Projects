@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week1_1</string>
+    <string name="convert_string">Convert to TL</string>
+    <string name="dollars_hint">dollars</string>
+    <string name="no_value_message">No Value Entered</string>
+</resources>

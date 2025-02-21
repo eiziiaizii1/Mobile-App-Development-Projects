@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#964EFF</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="green">#58A669</color>
+
+    <!-- Custom colors for buttons -->
+    <color name="button_background">#FF6200EE</color> <!-- Purple -->
+    <color name="button_text">#FFFFFFFF</color> <!-- White -->
+    <color name="operator_button_background">#FF03DAC5</color> <!-- Teal -->
+    <color name="operator_button_text">#FF000000</color> <!-- Black -->
+    <color name="clear_button_background">#FF3700B3</color> <!-- Dark Purple -->
+    <color name="clear_button_text">#FFFFFFFF</color> <!-- White -->
+</resources>

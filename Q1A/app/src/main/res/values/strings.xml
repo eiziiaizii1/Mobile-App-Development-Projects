@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Q1A</string>
+    <string name="tv1_txt">This is a label</string>
+    <string name="btn1_txt">Button1</string>
+    <string name="btn2_txt">BUTTON2</string>
+    <string name="et1_hint">Type text here</string>
+    <string name="et2_hint">Type number here</string>
+    <string name="chk1_txt">Color</string>
+    <string name="chk2_txt">Star</string>
+    <string name="rdb1_txt">Option 1</string>
+    <string name="rdb2_txt">Option 2</string>
+
+    <string-array name="city_array">
+        <item>Ankara</item>
+        <item>Istanbul</item>
+        <item>Izmir</item>
+        <item>Konya</item>
+        <item>Antalya</item>
+    </string-array>
+</resources>

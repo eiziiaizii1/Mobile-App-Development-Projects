@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Q2B</string>
+    <string name="title_txt">CINEMA</string>
+    <string name="movie_txt">Movie</string>
+    <string name="r_btnMultiple">Multiple Tickets</string>
+    <string name="r_btnSingle">Single Ticket</string>
+    <string name="ticketCount_txt">Ticket Count</string>
+    <string name="r_btnP">Paypal</string>
+    <string name="r_btnV">Visa</string>
+    <string name="name_hint">Enter Your Name</string>
+    <string name="clearBtn_txt">Clear</string>
+    <string name="finishBtn_txt">Finish</string>
+
+    <string-array name="movie_array">
+        <item>Shrek</item>
+        <item>Blade Runner</item>
+        <item>Taxi Driver</item>
+        <item>V For Vendetta</item>
+    </string-array>
+
+</resources>

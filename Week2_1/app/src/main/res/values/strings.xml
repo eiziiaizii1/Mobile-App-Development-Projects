@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week2_1</string>
+    <string name="dialogBtn_text">Dialog Button</string>
+    <string name="toastBtn_text">Toast Button</string>
+</resources>
