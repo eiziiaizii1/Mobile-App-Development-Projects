@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabGuide_w5</string>
+    <string name="movies">Movies</string>
+    <string name="lt_txt"><![CDATA[<]]></string>
+    <string name="rt_txt"><![CDATA[>]]></string>
+    <string name="cBackground_txt">Change Background Color</string>
+</resources>
