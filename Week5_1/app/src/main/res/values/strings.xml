@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Week5_1</string>
+    <string name="title_txt">Frame Layout:</string>
+    <string name="img1_desc">img1</string>
+    <string name="img2_desc">img2</string>
+    <string name="btn_txt">shut up</string>
 </resources>
