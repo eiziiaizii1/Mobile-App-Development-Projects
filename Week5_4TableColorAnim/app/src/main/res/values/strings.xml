@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="tvUsername">User Name</string>
+    <string name="username_txt">Enter Name</string>
+    <string name="tvPassword">Password</string>
+    <string name="password_txt">Enter Password</string>
+    <string name="remember_chk">Remember Password</string>
+    <string name="login_btn">Log In</string>
+    <string name="app_name"><![CDATA[eek5_4-TableColor&Anim]]></string>
+</resources>
