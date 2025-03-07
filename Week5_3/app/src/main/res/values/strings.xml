@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week5_3</string>
+    <string name="btn1_txt">Top Left</string>
+    <string name="btn2_txt">Top Right</string>
+    <string name="btn3_txt">Bottom Left</string>
+    <string name="btn4_txt">Bottom Right</string>
+    <string name="btn5_txt">Center</string>
+    <string name="btn6_txt">Top Center</string>
+    <string name="btn7_txt">Bottom Center</string>
+</resources>
