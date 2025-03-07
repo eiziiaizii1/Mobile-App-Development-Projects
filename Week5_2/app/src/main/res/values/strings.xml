@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week5_2</string>
+    <string name="tv1_txt">RED</string>
+    <string name="tv2_txt">ORANGE</string>
+    <string name="tv3_txt">YELLOW</string>
+    <string name="tv4_txt">GREEN</string>
+    <string name="tv5_txt">BLUE</string>
+    <string name="tv6_txt">INDIGO</string>
+    <string name="tv7_txt">VIOLET</string>
+
+</resources>
