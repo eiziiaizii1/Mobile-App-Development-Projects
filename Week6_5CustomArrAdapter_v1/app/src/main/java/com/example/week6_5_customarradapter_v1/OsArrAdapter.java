@@ -36,16 +36,19 @@ public class OsArrAdapter extends ArrayAdapter<String> {
         tv.setText(values[position]);
         String str = values[position];
 
-        if(str.equals("Microsoft")){
-            iv.setImageResource(R.drawable.mic_logo);
-        } else if (str.equals("IOS")) {
-            iv.setImageResource(R.drawable.ios_logo);
-        }
-        else if (str.equals("HarmonyOS")) {
-            iv.setImageResource(R.drawable.hmhw_logo);
-        }
-        else {
-            iv.setImageResource(R.drawable.android_logo);
+        switch (str) {
+            case "Microsoft":
+                iv.setImageResource(R.drawable.mic_logo);
+                break;
+            case "IOS":
+                iv.setImageResource(R.drawable.ios_logo);
+                break;
+            case "HarmonyOS":
+                iv.setImageResource(R.drawable.hmhw_logo);
+                break;
+            default:
+                iv.setImageResource(R.drawable.android_logo);
+                break;
         }
 
         return rowView;

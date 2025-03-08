@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         lv = (ListView) findViewById(R.id.lv_os);
 
-        lv = (ListView) findViewById(R.id.lv_os);
 
         mArrAdapter = new OsArrAdapter(this, OSes);
         lv.setAdapter(mArrAdapter);
