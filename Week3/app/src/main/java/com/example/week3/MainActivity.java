@@ -33,21 +33,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    protected void onRestart() {
-        super.onRestart();
-        Log.d(tag, "In onRestart event");
-    }
-
-    @Override
     protected void onResume() {
         super.onResume();
         Log.d(tag, "In onResume event");
     }
 
     @Override
+    protected void onRestart() {
+        super.onRestart();
+        Log.d(tag, "In onRestart event");
+    }
+
+    @Override
     protected void onPause() {
         super.onPause();
         Log.d(tag, "In onPause event");
+    }
+    @Override
+    protected void onStop(){
+        super.onStop();
+        Log.d(tag, "In onStop event");
     }
 
     @Override
