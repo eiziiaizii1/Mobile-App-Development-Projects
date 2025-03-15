@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week7_3</string>
+    <string name="msg1">Main Activity</string>
+    <string name="msg2">Second Activity</string>
+    <string name="btn1_txt">Find Sum</string>
+    <string name="tv1_txt">Number 1:</string>
+    <string name="tv2_txt">Number 2:</string>
+</resources>

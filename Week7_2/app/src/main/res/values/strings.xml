@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week7_2</string>
+    <string name="tvRes_txt">Input:</string>
+    <string name="msg2">Number: </string>
+</resources>
