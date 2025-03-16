@@ -32,8 +32,8 @@ public class MainActivity extends ListActivity {
 
         ListView lv = getListView();
 //        lv.setChoiceMode(ListView.CHOICE_MODE_NONE);
-        lv.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
-//        lv.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
+//        lv.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
+        lv.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
 
         lv.setTextFilterEnabled(true);
 

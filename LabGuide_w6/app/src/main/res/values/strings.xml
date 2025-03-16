@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LabGuide_w6</string>
+    <string name="currencyTitle_txt">Currency </string>
+    <string name="converterTitle_txt">Converter</string>
+    <string name="tv_currency1">Amount(TL):</string>
+    <string name="tv_hint">Enter Amount</string>
+    <string name="tv_choice_txt">Select Currency: </string>
+    <string name="tv_currency2">"Amount(USD): "</string>
+    <string name="tv_list_txt" />
 </resources>

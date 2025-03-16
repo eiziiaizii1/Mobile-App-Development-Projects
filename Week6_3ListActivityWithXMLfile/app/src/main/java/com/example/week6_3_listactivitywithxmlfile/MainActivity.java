@@ -63,6 +63,7 @@ public class MainActivity extends ListActivity {
         tv.setTextSize(20);
 
         Typeface t = Typeface.create("serif", Typeface.BOLD_ITALIC);
+
         tv.setTypeface(t);
         tv.setPadding(10,10,10,10);
         tv.setText(itemsSelected);

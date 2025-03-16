@@ -15,7 +15,9 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     EditText et;
-    TextView tv;
+    TextView tv1;
+    TextView tv2;
+    TextView tv3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,22 +31,23 @@ public class MainActivity extends AppCompatActivity {
         });
 
         et = findViewById(R.id.et1);
-        tv = findViewById(R.id.tv1);
+        tv1 = findViewById(R.id.tv1);
+
 
         et.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-                tv.setText("" + et.getText().toString());
+                //tv1.setText(et.getText().toString()+ "" );
             }
 
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
-                //tv.setText("" + et.getText().toString());
+                //tv1.setText(et.getText().toString()+ "" );
             }
 
             @Override
             public void afterTextChanged(Editable s) {
-                //tv.setText("" + et.getText().toString());
+                tv1.setText(et.getText().toString()+"");
             }
         });
     }
