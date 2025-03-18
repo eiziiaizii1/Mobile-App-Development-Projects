@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Q2</string>
+    <string name="tv_list_txt">...</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">clear\n</string>
+    <string name="hint_height">Enter height</string>
+    <string name="height_cm">Height(cm):</string>
+    <string name="hint_weight">Enter weight</string>
+    <string name="weight_kg">Weight(kg):</string>
+    <string name="tv1_txt">BMI CALCULATOR</string>
+
+    <string name="currencyTitle_txt">Currency </string>
+    <string name="converterTitle_txt">Converter</string>
+    <string name="tv_currency1">Amount(TL):</string>
+    <string name="tv_hint">Enter Amount</string>
+    <string name="tv_choice_txt">Select Currency: </string>
+    <string name="tv_currency2">"Amount(USD): "</string>/>
+</resources>

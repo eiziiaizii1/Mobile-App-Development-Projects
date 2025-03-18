@@ -35,6 +35,7 @@ public class CustomAdapter extends ArrayAdapter<ListData> {
         ImageView iv = rowView.findViewById(R.id.left_pic);
         TextView tv = rowView.findViewById(R.id.tv_listitem);
 
+
         ListData tempData = data.get(position);
         iv.setImageResource(tempData.getImage());
         tv.setText(tempData.getCountry());
