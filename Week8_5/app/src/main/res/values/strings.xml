@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week8_5</string>
+    <string name="btn1_txt">Show Custom Dialog</string>
+    <string name="firstname_txt">Name</string>
+    <string name="lastname_txt">Last Name</string>
+    <string name="savebtn_txt">Save</string>
+    <string name="cancelbtn_txt">Cancel</string>
+</resources>
