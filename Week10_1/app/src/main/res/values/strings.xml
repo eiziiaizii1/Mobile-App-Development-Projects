@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Week10_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity1_name">Splash Screen</string>
+    <string name="activity2_name">ListView</string>
+    <string name="activity3_name">MainActivity1</string>
+    <string name="activity4_name">MainActivity2</string>
+    <string name="activity5_name">MainActivity3</string>
+    <string name="tv_txt">Splash Screen</string>
+    <string name="tv1_txt">This is Activity 1</string>
+    <string name="tv2_txt">This is Activity 2</string>
+    <string name="tv3_txt">This is Activity 3</string>
+</resources>

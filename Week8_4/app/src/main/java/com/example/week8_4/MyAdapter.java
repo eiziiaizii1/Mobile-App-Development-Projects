@@ -62,7 +62,4 @@ public class MyAdapter extends ArrayAdapter {
 
         return rowView;
     }
-
-
-
 }
